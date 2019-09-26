@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="default_color">#EEEEEE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_theme">#222222</color>
+    <color name="red_theme">#E34536</color>
+    <color name="blue_theme">#3885af</color>
+    <color name="green_theme">#1AAC19</color>
+    <color name="splash_bar">#3F71CC</color>
+    <color name="popup_bg">#8f000000</color>
+    <color name="d7d7d7">#d7d7d7</color>
+    <color name="dcdcdc">#dcdcdc</color>
+    <color name="c_e7e7e7">#e7e7e7</color>
+    <color name="rank_line">#DBDBDB</color>
+    <color name="c_20000000">#20000000</color>
+
+    <color name="c_8a8a8a">#8a8a8a</color>
+    <color name="back_grey">#F9F9F9</color>
+    <color name="grey_second">#a4a4a4</color>
+    <color name="app_theme_color">#E45040</color>
+
+    <color name="grey_loading">#868686</color>
+    <color name="cut_line">#EBEBEB</color>
+    <color name="black10">#19000000</color>
+    <color name="main_color">#27d081</color>
+    <color name="kit_title">#E4503F</color>
+    <color name="kit_white">#ffffffff</color>
+    <color name="c_00000000">#00000000</color>
+
+    <color name="video_E65B4E">#E65B4E</color>
+    <color name="yellow">#ffff9800</color>
+
+    <color name="F99393">#F99393</color>
+</resources>

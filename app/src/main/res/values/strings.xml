@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Team</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="press_again_to_exit_process">再按一次退出程序</string>
+    <string name="loading">上篮加载中...</string>
+
+    <string name="add86"><![CDATA[+86 >]]></string>
+</resources>

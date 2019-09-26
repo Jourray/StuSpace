@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:background="@android:color/transparent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <com.example.team.plugutils.ProgressImageView
+            android:id="@+id/view_list_empty_progress"
+            android:layout_width="@dimen/dp_25"
+            android:layout_height="@dimen/dp_25"
+            android:layout_centerVertical="true"
+            android:src="@drawable/lib_icon_tab1_selected" />
+        <TextView
+            android:id="@+id/tv_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/view_list_empty_progress"
+            android:layout_width="wrap_content"
+            android:text="@string/loading"
+            android:textSize="@dimen/sp_12"
+            android:textColor="@color/grey_loading"
+            android:layout_height="wrap_content" />
+
+    </RelativeLayout>
+</RelativeLayout>
